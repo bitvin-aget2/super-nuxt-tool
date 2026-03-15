@@ -12,5 +12,6 @@ A simple example repository demonstrating the use of Nuxt.js for building applic
 2. Run `npm install` and `npm run dev` to start the application.
 
 ## Future Plans
+- Add .gitignore file for Nuxt.js projects
 - Add more examples and components
 - Integrate with backend services
